@@ -29,3 +29,5 @@ def check():
 
 if __name__ == '__main__':
     main()
+# -*- coding: utf-8 -*-
+
